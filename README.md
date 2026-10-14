@@ -1,2 +1,2 @@
-# ISC
+# ISCrepo
 ISC cviceni repozitar
